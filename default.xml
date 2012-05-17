@@ -12,6 +12,8 @@
 		name="distribution" />
   <project	path="filemanager"
 		name="filemanager" />
+  <project	path="flashlight"
+		name="flashlight" />
   <project	path="notepad"
 		name="notepad" />
   <project	path="safe"
