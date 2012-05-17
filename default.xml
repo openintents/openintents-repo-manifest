@@ -12,6 +12,8 @@
 		name="filemanager" />
   <project	path="notepad"
 		name="notepad" />
+  <project	path="safe"
+		name="safe" />
   <project	path="shoppinglist"
 		name="shoppinglist" />
 </manifest>
