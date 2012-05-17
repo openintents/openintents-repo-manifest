@@ -4,10 +4,14 @@
   <default	revision="master"
 		remote="openintents-github" />
 
+  <project	path="convertcsv"
+		name="convertcsv" />
   <project	path="distribution"
 		name="distribution" />
   <project	path="filemanager"
 		name="filemanager" />
   <project	path="notepad"
 		name="notepad" />
+  <project	path="shoppinglist"
+		name="shoppinglist" />
 </manifest>
