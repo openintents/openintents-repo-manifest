@@ -6,6 +6,8 @@
 
   <project	path="aboutapp"
 		name="aboutapp" />
+  <project	path="countdown"
+		name="countdown" />
   <project	path="convertcsv"
 		name="convertcsv" />
   <project	path="distribution"
