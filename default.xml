@@ -4,6 +4,8 @@
   <default	revision="master"
 		remote="openintents-github" />
 
+  <project	path="aboutapp"
+		name="aboutapp" />
   <project	path="convertcsv"
 		name="convertcsv" />
   <project	path="distribution"
