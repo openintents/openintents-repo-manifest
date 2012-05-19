@@ -22,4 +22,10 @@
 		name="safe" />
   <project	path="shoppinglist"
 		name="shoppinglist" />
+  <project	path="translations/scripts"
+		name="translations-scripts" />
+  <project	path="translations/descriptions"
+		name="translations-descriptions" />
+  <project	path="translations/export"
+		name="translations-export" />
 </manifest>
