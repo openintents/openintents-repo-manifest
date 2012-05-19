@@ -28,4 +28,6 @@
 		name="translations-descriptions" />
   <project	path="translations/export"
 		name="translations-export" />
+  <project	path="translations/import"
+		name="translations-import" />
 </manifest>
